@@ -629,6 +629,11 @@
         "android": {
           "UiAutomator": "4.2+"
         }
+      },
+      "returns": {
+        "type": "string",
+        "name": "response",
+        "description": "Zipped contents of files in base64"
       }
     }
   },
